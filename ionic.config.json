@@ -1,0 +1,8 @@
+{
+  "name": "IonicApiTest",
+  "integrations": {
+    "cordova": {}
+  },
+  "type": "ionic-angular",
+  "pro_id": "9845ef94"
+}
